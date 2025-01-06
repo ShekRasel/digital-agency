@@ -8,7 +8,7 @@ const Team = () => {
     {
       name: 'John Doe',
       designation: 'UI/UX Designer',
-      imageUrl: '/public/images/team-01.png',
+      imageUrl: 'images/team-01.png',
       socials: {
         facebook: '#',
         linkedin: '#',
@@ -18,7 +18,7 @@ const Team = () => {
     {
       name: 'Jane Smith',
       designation: 'Frontend Developer',
-      imageUrl: '/public/images/team-02.png',
+      imageUrl: 'images/team-02.png',
       socials: {
         facebook: '#',
         linkedin: '#',
@@ -28,7 +28,7 @@ const Team = () => {
     {
       name: 'Michael Brown',
       designation: 'Backend Developer',
-      imageUrl: '/public/images/team-03.png',
+      imageUrl: 'images/team-03.png',
       socials: {
         facebook: '#',
         linkedin: '#',
