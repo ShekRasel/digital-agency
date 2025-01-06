@@ -46,3 +46,6 @@ npm install
 4. Start the application:
 npm run dev
 
+screenshots: 
+
+

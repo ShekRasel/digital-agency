@@ -25,7 +25,7 @@ const BlogPage = () => {
   ];
 
   return (
-    <div className="py-16 bg-gradient-to-r from-indigo-900 via-purple-900 to-pink-900">
+    <div id='blogs' className="py-16 bg-gradient-to-r from-indigo-900 via-purple-900 to-pink-900">
       <div className="max-w-screen-xl mx-auto px-6 text-center text-white">
         <h1 className="text-5xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-yellow-300 to-yellow-500 mb-12">
           Our Latest Blog Posts
